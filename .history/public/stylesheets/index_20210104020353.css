@@ -1,0 +1,28 @@
+.heading {
+  font-weight: 700;
+}
+
+.navbar-brand {
+  margin-left: auto;
+  font-weight: 700;
+  font-size: x-large;
+  color: white;
+}
+
+.nav-link {
+  padding: 0.25rem 0;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.5);
+  margin-left: 1rem;
+  border-bottom: 0.25rem solid transparent;
+  font-size: medium;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+.nav-link.active {
+  color: white;
+  border-bottom-color: white;
+}
